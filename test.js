@@ -7,3 +7,4 @@ if (true) {
   console.error('Tests failed');
   process.exit(1);
 }
+console.log("CI is working...");
